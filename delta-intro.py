@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %md # Prepare flight data in delta format
+# MAGIC %md # Prepare flight data in Delta format
 
 # COMMAND ----------
 
