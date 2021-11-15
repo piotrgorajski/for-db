@@ -8,7 +8,7 @@
 # COMMAND ----------
 
 dd = spark.read.option("header", True).csv("/databricks-datasets/flights/departuredelays.csv")
-display(dd)
+
 
 # COMMAND ----------
 
