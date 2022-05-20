@@ -4,7 +4,6 @@
 # COMMAND ----------
 
 # MAGIC %fs ls /databricks-datasets/flights
-# MAGIC dmjklsndlks
 
 # COMMAND ----------
 
